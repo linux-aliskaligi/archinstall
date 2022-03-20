@@ -1,3 +1,5 @@
+#!/bin/bash
+
 loadkeys trq
 iwd
 cfdisk
